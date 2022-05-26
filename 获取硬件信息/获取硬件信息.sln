@@ -1,0 +1,30 @@
+﻿Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+VisualStudioVersion = 15.0.28307.1831
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "获取硬件信息", "获取硬件信息\获取硬件信息.vcxproj", "{4C9EE73B-0439-4EC4-9678-B42D8C04A1C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C9EE73B-0439-4EC4-9678-B42D8C04A1C4}.Debug|x64.ActiveCfg = Debug|x64
+		{4C9EE73B-0439-4EC4-9678-B42D8C04A1C4}.Debug|x64.Build.0 = Debug|x64
+		{4C9EE73B-0439-4EC4-9678-B42D8C04A1C4}.Debug|x86.ActiveCfg = Debug|Win32
+		{4C9EE73B-0439-4EC4-9678-B42D8C04A1C4}.Debug|x86.Build.0 = Debug|Win32
+		{4C9EE73B-0439-4EC4-9678-B42D8C04A1C4}.Release|x64.ActiveCfg = Release|x64
+		{4C9EE73B-0439-4EC4-9678-B42D8C04A1C4}.Release|x64.Build.0 = Release|x64
+		{4C9EE73B-0439-4EC4-9678-B42D8C04A1C4}.Release|x86.ActiveCfg = Release|Win32
+		{4C9EE73B-0439-4EC4-9678-B42D8C04A1C4}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18BA7513-C210-44E3-BD71-CDF6A6C8CF29}
+	EndGlobalSection
+EndGlobal
